@@ -1,0 +1,9 @@
+com/pivotal/example/xd/controller/OrderController.class
+com/pivotal/example/xd/RabbitClient.class
+com/pivotal/example/xd/Order.class
+com/pivotal/example/xd/RabbitClient$1.class
+com/pivotal/example/xd/HeatMapItem.class
+com/pivotal/example/xd/RabbitClient$2.class
+com/pivotal/example/xd/OrderGenerator.class
+com/pivotal/example/xd/HeatMap.class
+com/pivotal/example/xd/BootstrapDataPopulator.class
